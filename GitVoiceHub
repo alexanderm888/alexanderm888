@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @alexanderm888
+  I propose GitHab Copilot to develop an infrastructure for software development, writing code and websites using voice commands and mobile applications.  Voice commands should be intuitive, without any fancy names that only IT specialists can understand.  This is a kind of mix: GitHub plus SIRI.  The point is this: the entire GitHab resource is organized into a single database, which is displayed in a special application, a mobile application.  The database should work with a voice assistant like Siri.  AI intelligence will develop the work of the voice assistant with the database.  A person downloads the application and takes a short course in using GitVoiceHub.  The principle of writing code is step-by-step. Selecting a task, for example, “create a website,” “create a mobile application,” etc. Then, settings: design, functionality, interface. Each function or each design element can be either template or detailed by voice commands  , which the voice assistant reads and compares with the database to select the most convenient code or template.
+<!---
+alexanderm888/alexanderm888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
